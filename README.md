@@ -1,3 +1,10 @@
+## Joan's notes:    
+
+1. Observe how our teachers write tests using jest.  https://jestjs.io/    
+
+
+:dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin::dolphin:    
+
 # Kata: Types, functions and modules
 
 This challenge is designed to practice familiarity with types, functions, and modules.
