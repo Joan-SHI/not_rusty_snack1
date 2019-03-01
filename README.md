@@ -1,4 +1,4 @@
-## Joan's notes:    
+## Joan's notes on top of this repo:    
 
 1. Observe how our teachers write tests using jest.  https://jestjs.io/    
 
